@@ -65,21 +65,32 @@ Udyam Guild turns each SHG into a **guild** and each lesson into a **business mi
 
 | Screen | Preview |
 |--------|---------|
-| Login | ![Login] |
-| Guild Dashboard | ![Dashboard](docs/screenshots/dashboard.png) |
-| Mission Player | ![Mission](docs/screenshots/mission.png) |
-| Leaderboard | ![Leaderboard](docs/screenshots/leaderboard.png) |
+| Login | ![image (16)](https://github.com/user-attachments/assets/24c4d687-937c-474c-93ae-b37ffddb1514)
+
+| Guild Dashboard | ![image (15)](https://github.com/user-attachments/assets/6a990a02-701f-431d-9b7b-ced97a3ca1cb)
+
+| Mission Player | ![image (14)](https://github.com/user-attachments/assets/9cb3a8fb-b1bf-4a64-a75e-1f795f339d7a)
+
+| Leaderboard | ![image (12)](https://github.com/user-attachments/assets/7e8f4a2e-8d42-4d87-a87e-563ef259b8a4)
+!
+|
 | Business Tools |![image (11)](https://github.com/user-attachments/assets/6177e678-eac5-439e-a711-18e4b3ee15b0)
 |
-| Facilitator Dashboard | ![Facilitator](docs/screenshots/facilitator.png) |
+| Facilitator Dashboard |  ![image (13)](https://github.com/user-attachments/assets/bc9175c9-6d53-4719-aec3-a9ce2e9ae6dd)
+|
 
 ---
 
 ## Demo Video
 
-> Demo video will be linked here after recording
+> Demo video :
 
-[![Demo Video](https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](docs/demo/udyam-guild-demo.mp4)
+
+
+https://github.com/user-attachments/assets/90a9a280-e6cd-43de-9c38-333aff43907f
+
+
+
 
 ---
 
