@@ -1,83 +1,71 @@
 <div align="center">
+<br />
 
-<img src="client/src/assets/logo.svg" alt="Udyam Guild Logo" width="120" height="120" />
+```
+██╗   ██╗██████╗ ██╗   ██╗ █████╗ ███╗   ███╗     ██████╗ ██╗   ██╗██╗██╗     ██████╗
+██║   ██║██╔══██╗╚██╗ ██╔╝██╔══██╗████╗ ████║    ██╔════╝ ██║   ██║██║██║     ██╔══██╗
+██║   ██║██║  ██║ ╚████╔╝ ███████║██╔████╔██║    ██║  ███╗██║   ██║██║██║     ██║  ██║
+██║   ██║██║  ██║  ╚██╔╝  ██╔══██║██║╚██╔╝██║    ██║   ██║██║   ██║██║██║     ██║  ██║
+╚██████╔╝██████╔╝   ██║   ██║  ██║██║ ╚═╝ ██║    ╚██████╔╝╚██████╔╝██║███████╗██████╔╝
+ ╚═════╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝     ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝
+```
 
-# 🛡️ Udyam Guild
+<br />
 
-### *Learn together. Earn together. Rise together.*
+**Learn together. Earn together. Rise together.**
 
-**A guild-based gamified learning platform for India's 10 crore SHG women**
+<br />
 
-<br/>
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/HackIndia_Spark_6-6C2BD9?style=flat-square&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/NIT_Delhi-E8700A?style=flat-square&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/Team-Teen_Titans-E91E8C?style=flat-square&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/License-MIT-27AE60?style=flat-square&logoColor=white" /></td>
+</tr>
+</table>
 
-[![Built for](https://img.shields.io/badge/Built%20for-HackIndia%20Spark%206-blueviolet?style=for-the-badge)](https://hackindia.xyz)
-[![Hackathon](https://img.shields.io/badge/Hosted%20by-NIT%20Delhi-orange?style=for-the-badge)](https://nitdelhi.ac.in)
-[![Team](https://img.shields.io/badge/Team-Teen%20Titans-ff69b4?style=for-the-badge)](#-team)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+<br />
 
-<br/>
+> A guild-based gamified learning platform for India's **10 crore SHG women** —
+> turning every Self Help Group into a guild, and every lesson into a mission.
 
-> Built at **HackIndia Spark 6** hosted by **NIT Delhi**
-> by Team **Teen Titans**
+<br />
 
 </div>
 
 ---
 
-## 📋 Table of Contents
+## The Problem
 
-- [The Problem](#-the-problem)
-- [Our Solution](#-our-solution)
-- [App Screenshots](#-app-screenshots)
-- [Demo Video](#-demo-video)
-- [The 5 Pillars](#-the-5-pillars)
-- [Tech Stack](#-tech-stack)
-- [Architecture](#-architecture)
-- [Getting Started](#-getting-started)
-- [Repo Structure](#-repo-structure)
-- [Team](#-team)
+India's SHG ecosystem is the largest grassroots women's network in the world. Yet most members still lack the practical skills to earn sustainably.
 
----
-
-## 🔴 The Problem
-
-India's **Self Help Group (SHG) ecosystem** is the largest grassroots women's network in the world:
-
-| Stat | Number |
-|------|--------|
+| | |
+|---|---|
 | Women mobilized | **10.05 Crore** |
 | Active SHGs | **90.90 Lakh** |
 | Districts covered | **700+** |
+| With real enterprise skills | **far too few** |
 
-Yet despite this scale, most SHG women still lack practical enterprise skills in **pricing, bookkeeping, digital selling, and market access.** Current training models are:
-
-- 📵 Static and trainer-dependent
-- 👤 Built for individuals, not groups
-- 📊 Disconnected from real income generation
-- 🔇 Not available in local languages
+Current training is static, trainer-dependent, built for individuals — and completely disconnected from real income generation.
 
 ---
 
-## 💡 Our Solution
+## The Solution
 
-**Udyam Guild** turns each SHG into a **guild** and each lesson into a **business mission.**
-
-Instead of passive training, women:
-- 🎯 Complete **proof-of-work missions** (real tasks, not just quizzes)
-- 🏆 Earn **XP and badges** individually and as a guild
-- 📈 Climb a **live leaderboard** against other guilds in their cluster
-- 🛒 Unlock **real market access** (Meesho, ONDC, e-NAM) as they level up
-- 💳 Build a **Loan Readiness Score** exportable to MFI partners
+Udyam Guild turns each SHG into a **guild** and each lesson into a **business mission.** Women don't watch lectures. They complete real tasks, earn XP, climb a live leaderboard against other guilds in their cluster, and unlock actual market access as they level up.
 
 ---
 
-## 📱 App Screenshots
+## App Screenshots
 
-> *Screenshots coming soon — UI in active development*
+*THESE ARE AVAILABLE IN THE IMAGES FOLDER USE FROM THERE*
+
+> UI in active development — screenshots will be added here
 
 | Screen | Preview |
 |--------|---------|
-| Login | ![Login Screen](docs/screenshots/login.png) |
+| Login | ![Login](docs/screenshots/login.png) |
 | Guild Dashboard | ![Dashboard](docs/screenshots/dashboard.png) |
 | Mission Player | ![Mission](docs/screenshots/mission.png) |
 | Leaderboard | ![Leaderboard](docs/screenshots/leaderboard.png) |
@@ -86,293 +74,291 @@ Instead of passive training, women:
 
 ---
 
-## 🎬 Demo Video
+## Demo Video
 
-> *Demo video will be uploaded here after recording*
+> Demo video will be linked here after recording
 
-[![Watch Demo](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](docs/demo/udyam-guild-demo.mp4)
-
----
-
-## 🏛️ The 5 Pillars
-
-### Pillar 1 — Guild Identity & Onboarding
-Every SHG joins as a named **guild** with 8–12 members. Each member picks one of **5 core roles** (Treasurer, Catalog Lead, Seller, Maker, Digital Champion). A **Baseline Assessment** generates a starting Loan Readiness Score. KRP/NGO staff join as a **Guild Guide** with cluster-level tools.
-
-### Pillar 2 — Structured Learning Journeys
-**7–10 week tracks** mapped to real business goals ("Start Selling Locally", "Digital Orders", "Festival Business"). Each lesson is a **3-minute Hindi/regional audio** + scenario simulation. Content is **role-filtered** — a Treasurer gets pricing content, a Seller gets negotiation content.
-
-### Pillar 3 — Mission Engine (Proof-of-Work Core)
-**6 levels** from Udaan to Udyam Pro, each unlocking at real task completion:
-
-```
-Level 1 — Udaan        → Digital basics, product idea, confidence
-Level 2 — Tayyari      → Pricing, cost, customer communication
-Level 3 — Bazaar Ready → Meesho listing UNLOCKED 🛒
-Level 4 — Vishwas      → Payments, record keeping, repeat buyers
-Level 5 — Pragati      → Brand identity, ONDC / e-NAM UNLOCKED 🏪
-Level 6 — Udyam Pro    → Advanced growth, facilitator certification
-```
-
-**Daily Sparks** + **Weekly Quests** + **Cluster Leaderboards** keep engagement high.
-
-### Pillar 4 — Business Execution Tools
-- 🧮 **Smart Pricing Calculator** — cost + margin → correct price
-- 🎙️ **Voice Cashbook** — record income by speaking
-- 📦 **Product Catalog Builder** — photos + descriptions → shareable catalog
-- 📊 **Income Logger** — monthly tracking with streak badges
-- 💳 **Loan Readiness Score** — 0–100 score exportable to MFI partners
-
-### Pillar 5 — Facilitator Intelligence + Market Linkage
-- 🗺️ **Guild Heatmap** — facilitators see which guilds need attention
-- 📲 **WhatsApp Nudge Engine** — automated mission reminders
-- 🤝 **Market Linkage Hub** — Meesho → ONDC → e-NAM progression
-- 🏦 **MFI Integration** — automated credit proxy scores to partner banks
+[![Demo Video](https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](docs/demo/udyam-guild-demo.mp4)
 
 ---
 
-## 🛠️ Tech Stack
+## The 5 Pillars
+
+**Pillar 1 — Guild Identity & Onboarding**
+Each SHG joins as a named guild with 8–12 members. Members pick one of 5 roles: Treasurer, Catalog Lead, Seller, Maker, or Digital Champion. A Baseline Assessment generates a starting Loan Readiness Score. KRP/NGO staff join as Guild Guides with cluster-level oversight tools.
+
+**Pillar 2 — Structured Learning Journeys**
+7–10 week tracks mapped to real business goals — "Start Selling Locally", "Digital Orders", "Festival Business". Each lesson is a 3-minute audio in Hindi or a regional language, followed by a scenario simulation. Content is role-filtered: a Treasurer gets pricing content, a Seller gets negotiation content.
+
+**Pillar 3 — Mission Engine**
+6 levels from Udaan to Udyam Pro. Each level unlocks only after completing real-world tasks — not just watching videos.
+
+```
+Level 1  Udaan         Digital basics, product idea, confidence building
+Level 2  Tayyari       Pricing, cost understanding, customer communication
+Level 3  Bazaar Ready  ──── Meesho listing UNLOCKED
+Level 4  Vishwas       Payments, record keeping, repeat buyers
+Level 5  Pragati       ──── ONDC + e-NAM marketplace UNLOCKED
+Level 6  Udyam Pro     Advanced growth, facilitator certification
+```
+
+Daily Sparks, Weekly Quests, and Cluster Leaderboards keep the engagement loop running.
+
+**Pillar 4 — Business Execution Tools**
+
+- Smart Pricing Calculator — cost + margin gives the correct selling price
+- Voice Cashbook — record daily income by speaking
+- Product Catalog Builder — photos and descriptions become a shareable catalog
+- Income Logger — monthly tracking with streak badges
+- Loan Readiness Score — 0 to 100 score, exportable directly to MFI partners
+
+**Pillar 5 — Facilitator Intelligence + Market Linkage**
+
+- Guild Heatmap — facilitators see at a glance which guilds need attention
+- WhatsApp Nudge Engine — automated mission reminders sent to members
+- Market Linkage Hub — Meesho to ONDC to e-NAM, progression-gated
+- MFI Integration — automated credit proxy scores pushed to partner banks
+
+---
+
+## Tech Stack
+
+<br />
+
+<div align="center">
 
 ### Frontend
-[![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion)
-[![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com)
 
-| Library | Purpose |
-|---------|---------|
-| React 18 + Vite | Fast web app, PWA-ready |
-| Tailwind CSS | Rapid UI with custom SHG brand tokens |
-| Zustand | Global state — user, guild, XP, missions |
-| Framer Motion | XP animations, badge pops, level unlock celebrations |
-| Recharts | Income graphs, skill radar, cluster bar charts |
-| React Hook Form | All forms — onboarding, catalog builder, cashbook |
-| Axios | HTTP client with JWT auto-injection |
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,js" height="48" />
+
+<br /><br />
+
+| | Technology | Why |
+|---|---|---|
+| <img src="https://skillicons.dev/icons?i=react" height="20" /> | React 18 + Vite | Fast web app with hot reload and PWA support |
+| <img src="https://skillicons.dev/icons?i=tailwind" height="20" /> | Tailwind CSS | Utility-first styling with custom brand tokens |
+| <img src="https://img.shields.io/badge/Z-Zustand-000?style=flat-square&logoColor=white" height="20" /> | Zustand | Lightweight global state — user, guild, XP, missions |
+| <img src="https://img.shields.io/badge/FM-Framer_Motion-000?style=flat-square&logoColor=white" height="20" /> | Framer Motion | XP animations, badge pops, level unlock celebrations |
+| <img src="https://img.shields.io/badge/RC-Recharts-22B5BF?style=flat-square&logoColor=white" height="20" /> | Recharts | Income graphs, skill radar, cluster bar charts |
+| <img src="https://img.shields.io/badge/RHF-React_Hook_Form-EC5990?style=flat-square&logoColor=white" height="20" /> | React Hook Form | All forms — onboarding, catalog builder, cashbook |
+| <img src="https://img.shields.io/badge/AX-Axios-5A29E4?style=flat-square&logoColor=white" height="20" /> | Axios | HTTP client with automatic JWT injection |
+
+<br />
 
 ### Backend
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
 
-| Library | Purpose |
-|---------|---------|
-| Node.js + Express | REST API server |
-| JWT + bcrypt | Auth tokens + OTP hashing |
-| Multer + AWS S3 | Task proof photo uploads |
-| Bull + Redis | Background job queue — XP recalc, nudges |
-| node-cron | Daily Sparks scheduler, streak checker |
-| Zod | Input validation on all API routes |
-| Morgan + Winston | Request and error logging |
+<img src="https://skillicons.dev/icons?i=nodejs,express,js" height="48" />
+
+<br /><br />
+
+| | Technology | Why |
+|---|---|---|
+| <img src="https://skillicons.dev/icons?i=nodejs" height="20" /> | Node.js + Express | REST API — fast to build, massive ecosystem |
+| <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="20" /> | JWT + bcrypt | Auth tokens and OTP hashing |
+| <img src="https://img.shields.io/badge/Multer-FF6900?style=flat-square&logoColor=white" height="20" /> | Multer + AWS S3 | Task proof photo uploads |
+| <img src="https://img.shields.io/badge/Bull-E63946?style=flat-square&logoColor=white" height="20" /> | Bull + Redis | Background job queue for XP recalc and nudges |
+| <img src="https://img.shields.io/badge/cron-4B5563?style=flat-square&logoColor=white" height="20" /> | node-cron | Daily Sparks scheduler and streak checker |
+| <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logoColor=white" height="20" /> | Zod | Input validation on every API route |
+| <img src="https://img.shields.io/badge/Winston-231F20?style=flat-square&logoColor=white" height="20" /> | Morgan + Winston | Request logging and error tracking |
+
+<br />
 
 ### Database & Storage
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
-[![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3)
 
-| Technology | Purpose |
-|-----------|---------|
-| PostgreSQL 16 | Primary database — users, guilds, missions, progress |
-| Redis 7 | Leaderboard cache, sessions, job queue |
-| AWS S3 + CloudFront | Audio lessons, catalog images, task proof photos |
+<img src="https://skillicons.dev/icons?i=postgres,redis,aws" height="48" />
+
+<br /><br />
+
+| | Technology | Why |
+|---|---|---|
+| <img src="https://skillicons.dev/icons?i=postgres" height="20" /> | PostgreSQL 16 | Primary database — users, guilds, missions, progress |
+| <img src="https://skillicons.dev/icons?i=redis" height="20" /> | Redis 7 | Leaderboard cache, sessions, job queue |
+| <img src="https://skillicons.dev/icons?i=aws" height="20" /> | AWS S3 + CloudFront | Audio lessons, catalog images, task proof photos |
+
+<br />
 
 ### Infrastructure & Integrations
-[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 
-| Service | Purpose |
-|---------|---------|
-| Railway | One-click deploy for Node + Postgres + Redis |
-| GitHub Actions | CI/CD — auto deploy on push to main |
-| Docker Compose | Local dev — one command to run everything |
-| Fast2SMS | OTP via Indian mobile numbers |
-| Twilio WhatsApp | Facilitator nudges and mission reminders |
-| Meesho Partner API | One-tap product listing at Level 3 |
-| Razorpay | UPI checklist + payment readiness |
+<img src="https://skillicons.dev/icons?i=docker,githubactions" height="48" />
+&nbsp;
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" height="48" />
 
----
+<br /><br />
 
-## 🏗️ Architecture
+| | Service | Purpose |
+|---|---|---|
+| <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" height="20" /> | Railway | One-click deploy for Node + Postgres + Redis |
+| <img src="https://skillicons.dev/icons?i=githubactions" height="20" /> | GitHub Actions | CI/CD — auto deploy on push to main |
+| <img src="https://skillicons.dev/icons?i=docker" height="20" /> | Docker Compose | Local dev — one command to run everything |
+| <img src="https://img.shields.io/badge/Fast2SMS-FF4500?style=flat-square&logoColor=white" height="20" /> | Fast2SMS | OTP delivery via Indian mobile numbers |
+| <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" height="20" /> | Twilio WhatsApp | Facilitator nudges and mission reminders |
+| <img src="https://img.shields.io/badge/Meesho-9E23A0?style=flat-square&logoColor=white" height="20" /> | Meesho Partner API | One-tap product listing unlock at Level 3 |
+| <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white" height="20" /> | Razorpay | UPI checklist and payment readiness verification |
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    WHO USES IT                               │
-│  SHG Members  │  Facilitators  │  NGO/KRP  │  MFI Partners  │
-└───────────────────────┬─────────────────────────────────────┘
-                        │ browser (React PWA)
-┌───────────────────────▼─────────────────────────────────────┐
-│                   FRONTEND (React + Vite)                    │
-│  Guild Hub  │  Missions  │  Biz Tools  │  Leaderboard  │ Admin│
-└───────────────────────┬─────────────────────────────────────┘
-                        │ REST API (JSON over HTTPS)
-┌───────────────────────▼─────────────────────────────────────┐
-│                BACKEND (Node.js + Express)                   │
-│  Auth+Roles │ Mission Engine │ Biz Tools │ Facilitator │ Market│
-└──────┬──────────────┬───────────────────────────────────────┘
-       │              │
-┌──────▼──────┐ ┌─────▼──────┐ ┌───────────┐
-│ PostgreSQL  │ │   Redis    │ │  AWS S3   │
-│  (primary)  │ │  (cache)   │ │  (files)  │
-└─────────────┘ └────────────┘ └───────────┘
-                        │
-┌───────────────────────▼─────────────────────────────────────┐
-│              EXTERNAL INTEGRATIONS                           │
-│  Fast2SMS  │  Twilio  │  Meesho  │  ONDC  │  MFI/Banks      │
-└─────────────────────────────────────────────────────────────┘
-```
+</div>
+
+<br />
 
 ---
 
-## 🚀 Getting Started
+## Architecture
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  USERS                                                           │
+│  SHG Members · Facilitators · NGO / KRP Staff · MFI Partners    │
+└────────────────────────────┬─────────────────────────────────────┘
+                             │  browser
+┌────────────────────────────▼─────────────────────────────────────┐
+│  FRONTEND  —  React 18 + Vite + Tailwind                        │
+│  Guild Hub · Mission Player · Business Tools · Leaderboard      │
+│  Facilitator Dashboard · NGO Dashboard · Market Linkage Hub     │
+└────────────────────────────┬─────────────────────────────────────┘
+                             │  REST API  /api/*
+┌────────────────────────────▼─────────────────────────────────────┐
+│  BACKEND  —  Node.js + Express                                  │
+│  Auth & Roles · Mission Engine · XP & Level Unlock             │
+│  Business Tools · Facilitator Intel · Market & MFI             │
+└──────────┬─────────────────┬────────────────────────────────────┘
+           │                 │
+     ┌─────▼──────┐   ┌──────▼─────┐   ┌────────────┐
+     │ PostgreSQL │   │   Redis    │   │   AWS S3   │
+     │  primary   │   │   cache    │   │   files    │
+     └────────────┘   └────────────┘   └────────────┘
+                             │
+┌────────────────────────────▼─────────────────────────────────────┐
+│  INTEGRATIONS                                                    │
+│  Fast2SMS · Twilio WhatsApp · Meesho API · ONDC · MFI Banks     │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## Getting Started
 
 ### Prerequisites
+
 - Node.js 18+
 - PostgreSQL 16
 - Redis 7
-- Docker + Docker Compose (recommended)
+- Docker + Docker Compose (recommended for local dev)
 
-### Quick Start (Docker — recommended)
+### Quick start with Docker
 
 ```bash
-# 1. Clone the repo
 git clone https://github.com/teentitans/udyam-guild.git
 cd udyam-guild
 
-# 2. Copy env file and fill in your values
 cp .env.example .env
+# fill in your values — see Environment Variables below
 
-# 3. Start everything with one command
 docker-compose up --build
-
-# App runs at http://localhost:5173
-# API runs at http://localhost:5000
+# Frontend → http://localhost:5173
+# API      → http://localhost:5000
 ```
 
-### Manual Setup
+### Manual setup
 
 ```bash
-# Install root dependencies
+# Root
 npm install
 
-# ── Frontend ──────────────────────────
-cd client
-npm install
-npm run dev          # http://localhost:5173
+# Frontend
+cd client && npm install && npm run dev
 
-# ── Backend ───────────────────────────
-cd ../server
-npm install
-npm run dev          # http://localhost:5000
+# Backend
+cd ../server && npm install && npm run dev
 
-# ── Database ──────────────────────────
-# Make sure Postgres and Redis are running, then:
+# Database — run once after Postgres is up
 psql -U postgres -f database/schema.sql
 psql -U postgres -f database/seeds/01_missions_level1.sql
 psql -U postgres -f database/seeds/03_demo_guilds.sql
 ```
 
-### Environment Variables
+### Environment variables
 
 Copy `.env.example` to `.env` and fill in:
 
-```env
-# Server
+```
 PORT=5000
 NODE_ENV=development
 
-# Database
 DATABASE_URL=postgresql://postgres:password@localhost:5432/udyam_guild
-
-# Redis
 REDIS_URL=redis://localhost:6379
 
-# Auth
-JWT_SECRET=your_super_secret_key_here
+JWT_SECRET=change_this_to_a_long_random_string
 JWT_EXPIRES_IN=7d
 
-# OTP (set to 'mock' for dev — OTP will always be 1234)
+# set to 'mock' during development — OTP will always be 1234
 OTP_MODE=mock
-FAST2SMS_API_KEY=your_key_here
+FAST2SMS_API_KEY=
 
-# AWS S3
-AWS_ACCESS_KEY_ID=your_key
-AWS_SECRET_ACCESS_KEY=your_secret
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
 AWS_BUCKET_NAME=udyam-guild-assets
 AWS_REGION=ap-south-1
 
-# Twilio WhatsApp
-TWILIO_ACCOUNT_SID=your_sid
-TWILIO_AUTH_TOKEN=your_token
+TWILIO_ACCOUNT_SID=
+TWILIO_AUTH_TOKEN=
 TWILIO_WHATSAPP_FROM=whatsapp:+14155238886
 
-# Meesho
-MEESHO_PARTNER_API_KEY=your_key
+MEESHO_PARTNER_API_KEY=
 MEESHO_API_BASE_URL=https://api.meesho.com/v1
 
-# Client
 VITE_API_BASE_URL=http://localhost:5000/api
 ```
 
-### Demo Login Credentials
+### Demo credentials
 
 ```
-OTP_MODE=mock means any phone number logs in with OTP: 1234
+Any phone number + OTP 1234 when OTP_MODE=mock
 
-Demo SHG Member  → phone: 9876543210  → role: member
-Demo Facilitator → phone: 9876543211  → role: facilitator
-Demo NGO Staff   → phone: 9876543212  → role: ngo
+9876543210  →  member (Sunita, Shakti Mahila Guild, Level 3)
+9876543211  →  facilitator
+9876543212  →  ngo
 ```
 
 ---
 
-## 📁 Repo Structure
+## Repo Structure
 
 ```
 udyam-guild/
-├── .github/
-│   └── workflows/
-│       ├── deploy.yml          # Auto-deploy to Railway on push to main
-│       └── lint.yml            # ESLint check on every PR
+├── .github/workflows/
+│   ├── deploy.yml              auto-deploy to Railway on push to main
+│   └── lint.yml                ESLint on every PR
 │
-├── client/                     # React + Vite frontend
-│   ├── src/
-│   │   ├── pages/              # One file per screen
-│   │   │   ├── Login.jsx
-│   │   │   ├── GuildDashboard.jsx
-│   │   │   ├── MissionPlayer.jsx
-│   │   │   ├── Leaderboard.jsx
-│   │   │   ├── BusinessTools.jsx
-│   │   │   ├── FacilitatorDashboard.jsx
-│   │   │   └── ...13 more pages
-│   │   ├── components/
-│   │   │   ├── ui/             # Button, Card, Badge, Modal...
-│   │   │   ├── animations/     # XPBurst, BadgePop, LevelUnlock...
-│   │   │   ├── charts/         # IncomeGraph, SkillRadar...
-│   │   │   ├── mission/        # AudioPlayer, QuizBlock...
-│   │   │   ├── guild/          # MemberRoleCard, GuildAvatar...
-│   │   │   └── tools/          # PricingCalculator, VoiceCashbook...
-│   │   ├── hooks/              # useAuth, useGuild, useMissions...
-│   │   ├── store/              # Zustand stores
-│   │   ├── api/                # Axios API calls
-│   │   └── assets/             # SVGs, level icons, role icons
-│   └── ...config files
-│
-├── server/                     # Node.js + Express API
+├── client/                     React + Vite frontend
 │   └── src/
-│       ├── routes/             # 11 route files
-│       ├── controllers/        # 11 controller files
-│       ├── services/           # 11 service files (xp, loan, meesho...)
-│       ├── middleware/         # auth, role, upload, validate
-│       └── config/             # db, redis, s3, env
+│       ├── pages/              15 screens — one file each
+│       ├── components/
+│       │   ├── ui/             Button, Card, Badge, Modal, Toast...
+│       │   ├── animations/     XPBurst, BadgePop, LevelUnlock, StreakFlame
+│       │   ├── charts/         IncomeGraph, SkillRadar, GuildHeatmap
+│       │   ├── mission/        AudioPlayer, QuizBlock, MissionCard, LevelMap
+│       │   ├── guild/          MemberRoleCard, GuildAvatar, RoleSelector
+│       │   └── tools/          PricingCalculator, VoiceCashbook, IncomeLogger
+│       ├── hooks/              useAuth, useGuild, useMissions, useLeaderboard...
+│       ├── store/              Zustand — auth, guild, missions, tools
+│       ├── api/                Axios calls — auth, guild, missions, market...
+│       └── assets/             SVGs, level icons, role icons
+│
+├── server/                     Node.js + Express API
+│   └── src/
+│       ├── routes/             11 route files
+│       ├── controllers/        11 controller files
+│       ├── services/           xp, levelUnlock, loanScore, otp, whatsapp...
+│       ├── middleware/         auth, role, upload, validate, rateLimiter
+│       └── config/             db, redis, s3, env
 │
 ├── database/
-│   ├── migrations/             # 9 versioned SQL migrations
-│   ├── seeds/                  # Demo data — guilds, missions, users
-│   └── schema.sql              # Full schema in one file
+│   ├── migrations/             9 versioned SQL files
+│   ├── seeds/                  demo guilds, missions, users, quests
+│   └── schema.sql              full schema — run once to set up
 │
 ├── docs/
-│   ├── ARCHITECTURE.md
 │   ├── API.md
+│   ├── ARCHITECTURE.md
 │   ├── DEMO_SCRIPT.md
 │   └── LOAN_SCORE_FORMULA.md
 │
@@ -383,62 +369,59 @@ udyam-guild/
 
 ---
 
-## 👥 Team
+## Team
+
+<br />
 
 <div align="center">
 
-### 🦸 Teen Titans
+**Teen Titans — HackIndia Spark 6 — NIT Delhi**
 
-*Built at HackIndia Spark 6 · NIT Delhi*
+<br />
+
+| Member | Role | Owns |
+|--------|------|------|
+| **Krishna** | Full Stack Lead | Auth · Guild Identity · Facilitator Systems · Infra · Market Linkage |
+| **Vansh** | Full Stack | Mission Engine · XP System · Level Unlock · Learning Journeys |
+| **Aarushi** | Full Stack | Business Tools · Loan Readiness · NGO Dashboard · Scheduler |
+| **Mehar** | Frontend + UI/UX | Design System · All Screens · Animations · Responsiveness |
 
 </div>
 
-| Member | Role | Pillars Owned |
-|--------|------|--------------|
-| **Krishna** | Full Stack Developer (Lead) | Pillar 1 (Guild Identity) · Pillar 5 (Facilitator + Market) · Auth · Infra |
-| **Vansh** | Full Stack Developer | Pillar 2 (Learning Journeys) · Pillar 3 (Mission Engine) · XP System |
-| **Aarushi** | Full Stack Developer | Pillar 4 (Business Tools) · Loan Readiness · NGO Dashboard |
-| **Mehar** | Frontend Developer + UI/UX | Design System · All UI Screens · Animations · Mobile Responsiveness |
+---
+
+## Impact
+
+| | |
+|---|---|
+| Target users | 10.05 Crore SHG women |
+| SHGs addressable | 90.90 Lakh |
+| Deployment channel | Existing NRLM / DAY-NRLM network |
+| Market unlocked at Level 3 | Meesho — 120M+ customers |
+| Market unlocked at Level 5 | ONDC + e-NAM government marketplaces |
+| Financial access | Loan Readiness Score → MFI partner banks |
 
 ---
 
-## 🎯 Impact
+## Future Scope
 
-| Metric | Value |
-|--------|-------|
-| Target users | 10.05 Crore SHG women across India |
-| SHGs addressable | 90.90 Lakh guilds |
-| Deployment channel | Existing NRLM/DAY-NRLM network |
-| Market unlock at Level 3 | Meesho (120M+ customers) |
-| Market unlock at Level 5 | ONDC + e-NAM (govt. marketplaces) |
-| Loan access | MFI partner banks via Loan Readiness Score |
+- Offline mode with background sync for low-connectivity districts
+- 8 Indian language support — Hindi, Tamil, Bengali, Telugu, Marathi, Kannada, Gujarati, Odia
+- AI-powered personalized learning path recommendations
+- Direct UPI payment integration for in-app transactions
+- Block-level competitions and inter-cluster tournaments
+- Government MoU integration for formal skill certification
 
 ---
 
-## 🗺️ Future Scope
+## License
 
-- [ ] Offline mode with background sync (low connectivity areas)
-- [ ] 8 Indian language support (Hindi, Tamil, Bengali, Telugu, Marathi, Kannada, Gujarati, Odia)
-- [ ] AI-powered personalized learning path recommendations
-- [ ] Direct UPI payment integration for in-app transactions
-- [ ] e-NAM agricultural marketplace integration
-- [ ] Block-level competitions and inter-cluster tournaments
-- [ ] Government MoU integration for formal certification
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
+MIT — see [LICENSE](LICENSE)
 
 ---
 
 <div align="center">
 
-Made with ❤️ for India's SHG Women
-
-**Team Teen Titans · HackIndia Spark 6 · NIT Delhi**
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teentitans/udyam-guild)
+Built for India's SHG women by Team Teen Titans
 
 </div>
