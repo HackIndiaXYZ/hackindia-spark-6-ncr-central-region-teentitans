@@ -72,12 +72,11 @@ Udyam Guild turns each SHG into a **guild** and each lesson into a **business mi
 | Mission Player | ![image (14)](https://github.com/user-attachments/assets/9cb3a8fb-b1bf-4a64-a75e-1f795f339d7a)
 
 | Leaderboard | ![image (12)](https://github.com/user-attachments/assets/7e8f4a2e-8d42-4d87-a87e-563ef259b8a4)
-!
-|
+
 | Business Tools |![image (11)](https://github.com/user-attachments/assets/6177e678-eac5-439e-a711-18e4b3ee15b0)
-|
+
 | Facilitator Dashboard |  ![image (13)](https://github.com/user-attachments/assets/bc9175c9-6d53-4719-aec3-a9ce2e9ae6dd)
-|
+
 
 ---
 
